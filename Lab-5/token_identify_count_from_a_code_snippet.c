@@ -36,7 +36,7 @@ int main() {
         "=", "<", ">", "!"
     };
 
-    int opCount = 100;
+    int opCount = 22;
 
     printf("code = \n");
     fgets(code, sizeof(code), stdin);
