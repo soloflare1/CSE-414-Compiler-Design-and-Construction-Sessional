@@ -497,3 +497,8 @@ Note: `lex.yy.c` is regenerated whenever you run Flex. It will correspond to whi
 | 2 | Simple Calculator | Flex + Bison |
 | 3 | Token Recognition | Flex |
 | 4 | Syntax Analysis | Bison |
+
+# YT video
+```
+https://youtu.be/8jCiE-TPV_Q?si=qvYdgGl1x8T52YsK
+```
